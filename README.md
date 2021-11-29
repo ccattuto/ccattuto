@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello 👋
+
+- 🔭 I work on collecting and analyzing data on human and animal mobility and proximity, using wearable proximity sensors. I co-founded and co-lead the [SocioPatterns](https://www.sociopatterns.org) collaboration.
+- I develop embedded systems for work and for fun. I am mostly familiar with the nRF51 and nRF52 SoC by Nordic Semiconductors.
+
 
 <!--
 **ccattuto/ccattuto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
