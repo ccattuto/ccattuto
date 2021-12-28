@@ -1,7 +1,7 @@
-### Hello 👋
+### Hello 👨‍💻
 
-- I work on collecting and analyzing data on human and animal mobility and proximity, using wearable proximity sensors. I co-founded and co-lead the [SocioPatterns](http://www.sociopatterns.org) collaboration.
-- I develop code for proximity sensing systems. I am mostly familiar with the [nRF51](https://www.nordicsemi.com/Products/Development-hardware/nrf51-dk) and [nRF52](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk) SoCs by Nordic Semiconductors and with the awesome [OpenBeacon](https://www.openbeacon.org/) devices. I use [Visual Studio Code](https://code.visualstudio.com/), its [Cortex-Debug](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug) extension, the [SEGGER J-Link](https://www.segger.com/products/debug-probes/j-link/) probes, [DAPLink](https://github.com/ARMmbed/DAPLink), [DAP.js](https://github.com/ARMmbed/dapjs), and the [GNU Toolchain for ARM Processors](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/).
+- I work on collecting and analyzing data on human and animal social networks using wearable proximity sensors. I co-founded and co-lead the [SocioPatterns](http://www.sociopatterns.org) collaboration.
+- I develop software for proximity sensing systems. I am mostly familiar with the [nRF51](https://www.nordicsemi.com/Products/Development-hardware/nrf51-dk) and [nRF52](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk) SoCs by Nordic Semiconductors and with the awesome [OpenBeacon](https://www.openbeacon.org/) devices. I use [Visual Studio Code](https://code.visualstudio.com/), its [Cortex-Debug](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug) extension, the [SEGGER J-Link](https://www.segger.com/products/debug-probes/j-link/) probes, [DAPLink](https://github.com/ARMmbed/DAPLink), [DAP.js](https://github.com/ARMmbed/dapjs), [pyOCD](https://pyocd.io/) and the [GNU Toolchain for ARM Processors](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/).
 
 
 <!--
