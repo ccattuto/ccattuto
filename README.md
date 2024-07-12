@@ -1,7 +1,7 @@
 ### Hello 👨‍💻
 
 - I collect and analyze data on human and animal social networks using wearable proximity sensors. I co-founded and co-lead the [SocioPatterns](http://www.sociopatterns.org) collaboration.
-- My team develops software for proximity-sensing devices, including firmware for the [nRF51](https://www.nordicsemi.com/Products/Development-hardware/nrf51-dk) and [nRF52](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk) SoCs by Nordic Semiconductors, the awesome [OpenBeacon](https://www.openbeacon.org/) devices, the [STM32F0](https://www.st.com/en/microcontrollers-microprocessors/stm32f0-series.html) and [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) SoCs. We love [DAPLink](https://github.com/ARMmbed/DAPLink), [DAP.js](https://github.com/ARMmbed/dapjs) and [pyOCD](https://pyocd.io/).
+- My team develops software for proximity-sensing devices, including firmware for the [nRF51](https://www.nordicsemi.com/Products/Development-hardware/nrf51-dk) and [nRF52](https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk) SoCs by Nordic Semiconductors, the awesome [OpenBeacon](https://www.openbeacon.org/) devices, the [STM32F0](https://www.st.com/en/microcontrollers-microprocessors/stm32f0-series.html) and [RP2040](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html) SoCs, as well as UWB devices. We love [DAPLink](https://github.com/ARMmbed/DAPLink), [DAP.js](https://github.com/ARMmbed/dapjs) and [pyOCD](https://pyocd.io/).
 
 
 <!--
